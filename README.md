@@ -75,7 +75,7 @@ Lately I've also been diving into AI-integrated development, building projects o
 
 ## Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhiyadav07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF)
+![Contribution Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=Nidhiyadav07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF)
 
 ## Connect
 
