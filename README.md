@@ -68,10 +68,10 @@ Lately I've also been diving into AI-integrated development, building projects o
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhiyadav07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Nidhiyadav07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nidhiyadav07&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhiyadav07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nidhiyadav07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9)
 
 ## Contribution Graph
 
