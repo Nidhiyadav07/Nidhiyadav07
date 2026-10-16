@@ -47,14 +47,10 @@ Lately I've also been diving into AI-integrated development, building projects o
   `Node.js` `Express.js` `MongoDB` `JWT` `Postman`
   [Repo](https://github.com/Nidhiyadav07/CRUD-Operations)
 
--### AgentFlow – Multi-Agent Task Automation System
-
-An Agentic AI application built with LangGraph that intelligently routes user requests to specialized agents and tools, including Calculator, Weather, and Planner. Useful for automating tasks, handling multi-step requests, and coordinating AI workflows with human approval when needed.
+- **AgentFlow – Multi-Agent Task Automation System — An Agentic AI application built with LangGraph that intelligently routes user requests to specialized agents and tools, including Calculator, Weather, and Planner. Useful for automating tasks, handling multi-step requests, and coordinating AI workflows with human approval when needed.
 [Repo](https://github.com/Nidhiyadav07/agentflow-multi-agent-ai)
 
-- ### AI-Powered PDF Question Answering System
-
-An AI-based application that uses RAG to extract and retrieve relevant information from PDF documents and answer user questions with context-aware responses. Useful for studying, document analysis, and quickly finding information from lengthy PDFs.
+- **AI-Powered PDF Question Answering System — An AI-based application that uses RAG to extract and retrieve relevant information from PDF documents and answer user questions with context-aware responses. Useful for studying, document analysis, and quickly finding information from lengthy PDFs.
 [Repo](https://github.com/Nidhiyadav07/personal-ai-memory-agent)
 
 ## Achievements
