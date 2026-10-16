@@ -47,12 +47,15 @@ Lately I've also been diving into AI-integrated development, building projects o
   `Node.js` `Express.js` `MongoDB` `JWT` `Postman`
   [Repo](https://github.com/Nidhiyadav07/CRUD-Operations)
 
-- **Gemini AI Clone** — Gemini-inspired AI chatbot built with React 19 and Tailwind CSS, integrating the Groq SDK and Google GenAI SDK for low-latency prompt execution and multimodal conversational workflows.
-  `React` `Tailwind CSS` `Groq API` `Google GenAI SDK`
-  [Repo](https://github.com/Nidhiyadav07/Gemini-AI-Clone)
+-### AgentFlow – Multi-Agent Task Automation System
 
-- **Weather Forecast App** — Responsive weather app fetching real-time conditions for searched locations, with dynamic UI for temperature, humidity, and wind speed, and async data fetching with error handling for invalid city names.
-  `HTML` `CSS` `JavaScript` `OpenWeather API`
+An Agentic AI application built with LangGraph that intelligently routes user requests to specialized agents and tools, including Calculator, Weather, and Planner. Useful for automating tasks, handling multi-step requests, and coordinating AI workflows with human approval when needed.
+[Repo](https://github.com/Nidhiyadav07/agentflow-multi-agent-ai)
+
+- ### AI-Powered PDF Question Answering System
+
+An AI-based application that uses RAG to extract and retrieve relevant information from PDF documents and answer user questions with context-aware responses. Useful for studying, document analysis, and quickly finding information from lengthy PDFs.
+[Repo](https://github.com/Nidhiyadav07/personal-ai-memory-agent)
 
 ## Achievements
 
